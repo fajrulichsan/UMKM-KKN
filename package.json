@@ -1,0 +1,20 @@
+{
+  "name": "nodej.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "npm": "^6.14.10",
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -o public/style.css "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
